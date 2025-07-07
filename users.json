@@ -1,0 +1,15 @@
+[
+    {
+        "username": "jasper",
+        "password": "123",
+        "tasks": [
+            "Drink water",
+            "Check GitHub"
+        ]
+    },
+    {
+        "username": "admin",
+        "password": "admin",
+        "tasks": []
+    }
+]
