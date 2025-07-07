@@ -53,3 +53,4 @@ Backend Developer in Training — Passionate about building simple, clean, and e
 
 
 
+This project is a lightweight Flask API for task management. Ideal for client use or integration with front-end/mobile systems.
