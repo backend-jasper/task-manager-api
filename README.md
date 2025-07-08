@@ -48,7 +48,7 @@ curl http://127.0.0.1:5000/tasks/test
 
 🧑‍💻 Author
 
-DefSoledad
+backend-jasper
 Backend Developer in Training — Passionate about building simple, clean, and effective backend systems.
 
 
